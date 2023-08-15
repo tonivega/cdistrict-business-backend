@@ -1,0 +1,3 @@
+Dockerfile
+.idea
+#infra/db.sqlite3 # avega : for prod

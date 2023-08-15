@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+django = "*"
+django-middleware-global-request = "*"
+djangorestframework = "*"
+markdown = "*"
+gunicorn = "*"
+django-filter = "*"
+django-ufilter = {editable = true, ref = "main", git = "http://github.com/Qu4tro/django-ufilter.git"}
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"
