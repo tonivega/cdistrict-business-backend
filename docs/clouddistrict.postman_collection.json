@@ -140,7 +140,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\"id\":1, \"friendly_name\": \"test_{{$randomBsNoun}}\", \"budget\": {{$randomInt}}}",
+							"raw": "{\"id\":1, \"friendly_name\": \"test_{{$randomBsNoun}}\", \"salary\": {{$randomInt}}}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -191,7 +191,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\"friendly_name\": \"test_{{$randomBsNoun}}\", \"budget\": {{$randomInt}}}",
+							"raw": "{\"friendly_name\": \"test_{{$randomBsNoun}}\", \"salary\": {{$randomInt}}}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -245,7 +245,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\"id\":1, \"friendly_name\": \"test_{{$randomBsNoun}}\", \"budget\": {{$randomInt}}}",
+							"raw": "{\"id\":1, \"friendly_name\": \"test_{{$randomBsNoun}}\", \"salary\": {{$randomInt}}}",
 							"options": {
 								"raw": {
 									"language": "json"
